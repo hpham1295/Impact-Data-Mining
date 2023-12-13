@@ -1,6 +1,9 @@
 # Impact-Data-Mining
 An approach to extracting and summarizing key infrastructure and community impact information from wind disaster reconnaissance reports using Zero-shot text classification with BART-large models, highlighted by keywords. It features a practical example with Hurricane Ian damage in the Structural Engineering Reconnaissance report (StEER), and extends its application to a case study on the Mw 7.8 Kaharamanmaras - Turkiye Earthquake by StEER, demonstrating the model's versatality.
 
+## Related Publications:
+This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham (hpham12@vt.edu) and M. Arul (marul@vt.edu). The link to the full paper will be provided soon.
+
 ## Main Inputs
 The primary inputs for this project are reconnaissance reports in PDF format and relevant keywords tailored to the areas of interest in the study.
 
