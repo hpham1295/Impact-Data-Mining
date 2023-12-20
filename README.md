@@ -19,7 +19,7 @@ The diagram illustrates the project's execution flow, highlighting two primary p
 - For 2a_extracting_impact_sentences and 3_creating_summaries, which utilize BART large MNLI and BART large CNN models, the use of GPU A100 or at least V100 is recommended. This ensures efficient handling of the extensive ML parameters and reduces processing time.
 
 ## Report's links and models:
+- BART large MNLI model: https://huggingface.co/facebook/bart-large-mnli
+- BART large CNN model: https://huggingface.co/facebook/bart-large-cnn
 - Hurricane Ian reconnaissance report: https://doi.org/10.17603/ds2-3pc2-7p82
 - Mw 7.8 Kaharamanmaras - Turkiye Earquake reconnaissance report: https://doi.org/10.17603/ds2-mm04-xq43
-- BART large MNLI model: https://huggingface.co/facebook/bart-large-mnli
-- BAR Tlarge CNN model: https://huggingface.co/facebook/bart-large-cnn
