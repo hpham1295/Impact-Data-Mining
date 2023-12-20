@@ -22,4 +22,4 @@ The diagram illustrates the project's execution flow, highlighting two primary p
 - BART large MNLI model: https://huggingface.co/facebook/bart-large-mnli
 - BART large CNN model: https://huggingface.co/facebook/bart-large-cnn
 - Hurricane Ian reconnaissance report: https://doi.org/10.17603/ds2-3pc2-7p82
-- Mw 7.8 Kaharamanmaras - Turkiye Earquake reconnaissance report: https://doi.org/10.17603/ds2-mm04-xq43
+- Mw 7.8 Kaharamanmaras - Turkiye Earthquake reconnaissance report: https://doi.org/10.17603/ds2-mm04-xq43
