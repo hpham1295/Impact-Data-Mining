@@ -1,5 +1,6 @@
 # Impact-Data-Mining
 This approach utilizes zero-shot text classification with BART-large models to extract and summarize key information about infrastructure and community impacts from wind disaster reconnaissance reports, emphasizing specific keywords. The accompanying diagram illustrates the overall framework of the project. Included are an evaluation from the Hurricane Ian damage assessment in the Preliminary Virtual Reconnaissance Report (PVRR) by Structural Engineering Reconnaissance (StEER), a verification of impact sentence extraction from the most recent Hurricane Otis PVRR, and a case study application to the Mw 7.8 Kaharamanmaraş - Türkiye Earthquake, demonstrating the model’s adaptability to various disaster contexts.
+
 [(https://github.com/hpham1295/Impact-Data-Mining/blob/main/Framework.png)](https://github.com/hpham1295/Impact-Data-Mining/blob/main/application_framework.png)
 
 ## Related Publications:
