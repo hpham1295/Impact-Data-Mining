@@ -4,7 +4,7 @@ This approach utilizes zero-shot text classification with BART-large models to e
 [(https://github.com/hpham1295/Impact-Data-Mining/blob/main/Framework.png)](https://github.com/hpham1295/Impact-Data-Mining/blob/main/application_framework.png)
 
 ## Related Publications:
-This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham (hpham12@vt.edu) and M. Arul (marul@vt.edu). The link to the full paper will be provided soon.
+This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham (phamanhuy@vt.edu) and M. Arul (marul@vt.edu). The link to the full paper will be provided soon.
 
 ## Main Inputs
 The primary inputs for this project are reconnaissance reports in PDF format and relevant keywords tailored to the areas of interest in the study.
@@ -14,14 +14,13 @@ The primary inputs for this project are reconnaissance reports in PDF format and
 
 The diagram illustrates the project's execution flow across three primary phases: Data Input, Implementation, and Evaluation.
 
-Data Input Phase: This initial phase involves preparing inputs for the subsequent stages. Start by converting the PDF report into a .docx format to maintain the text structure accurately (Adobe Acrobat Pro is suggested). If certain sections are deemed unnecessary, utilize the optional 00_optional_customize_scope_by_toc.ipynb file to review and possibly exclude them from the table of contents, which might differ from the document's original layout. Update the sections to be excluded and other inputs in 01_input.ipynb before proceeding to preprocessing.
+- **Data Input Phase:** This initial phase involves preparing inputs for the subsequent stages. Start by converting the PDF report into a .docx format to maintain the text structure accurately (Adobe Acrobat Pro is suggested). If certain sections are deemed unnecessary, utilize the optional 00_optional_customize_scope_by_toc.ipynb file to review and possibly exclude them from the table of contents, which might differ from the document's original layout. Update the sections to be excluded and other inputs in 01_input.ipynb before proceeding to preprocessing.
 
-Implementation Phase: Begin processing with 1_preprocessing. Continue with notebooks 2a and 2b to extract impact sentences, followed by 3_generating_comprehensive_summaries.ipynb to compile the impact summaries.
+- **Implementation Phase:** Begin processing with 1_preprocessing. Continue with notebooks 2a and 2b to extract impact sentences, followed by 3_generating_comprehensive_summaries.ipynb to compile the impact summaries.
 
-Evaluation Phase: Assess the quality of results by manually labeling impact sentences in 4_data_labeling.ipynb. Then, use 5_analyzing_the_results.ipynb to generate confusion matrices and calculate F1 scores, thereby evaluating the effectiveness of the project.
+- **Evaluation Phase:** Assess the quality of results by manually labeling impact sentences in 4_data_labeling.ipynb. Then, use 5_analyzing_the_results.ipynb to generate confusion matrices and calculate F1 scores, thereby evaluating the effectiveness of the project.
 
-For detailed guidance on the usage and input requirements of each notebook, refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here].(http://hdl.handle.net/10919/116151)
-.
+For detailed guidance on the usage and input requirements of each notebook, refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here].(http://hdl.handle.net/10919/116151).
 
 ## Important notes:
 - All notebooks are designed and should be run on Google Colab.
