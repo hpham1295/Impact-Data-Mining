@@ -3,8 +3,14 @@ This approach utilizes zero-shot text classification with BART-large models to e
 
 [(https://github.com/hpham1295/Impact-Data-Mining/blob/main/Framework.png)](https://github.com/hpham1295/Impact-Data-Mining/blob/main/application_framework.png)
 
+## Project Contributors:
+
+Huy Pham, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
+
+Monica Arul, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile].([http://hdl.handle.net/10919/116151](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)). Email: marul@vt.edu
+
 ## Related Publications:
-This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham (phamanhuy@vt.edu) and M. Arul (marul@vt.edu). The link to the full paper will be provided soon.
+This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
 
 ## Main Inputs
 The primary inputs for this project are reconnaissance reports in PDF format and relevant keywords tailored to the areas of interest in the study.
