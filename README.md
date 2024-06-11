@@ -7,7 +7,8 @@ This approach utilizes zero-shot text classification with BART-large models to e
 
 - **Huy Pham**, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
 
-- **Monica Arul**, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile]([http://hdl.handle.net/10919/116151](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)). Email: marul@vt.edu
+- **Monica Arul**, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)
+. Email: marul@vt.edu
 
 ## Related Publications:
 This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
