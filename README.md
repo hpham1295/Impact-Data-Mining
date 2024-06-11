@@ -5,9 +5,9 @@ This approach utilizes zero-shot text classification with BART-large models to e
 
 ## Project Contributors:
 
-Huy Pham, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
+- **Huy Pham**, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
 
-Monica Arul, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile].([http://hdl.handle.net/10919/116151](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)). Email: marul@vt.edu
+- **Monica Arul**, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile]([http://hdl.handle.net/10919/116151](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)). Email: marul@vt.edu
 
 ## Related Publications:
 This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
@@ -26,7 +26,7 @@ The diagram illustrates the project's execution flow across three primary phases
 
 - **Evaluation Phase:** Assess the quality of results by manually labeling impact sentences in 4_data_labeling.ipynb. Then, use 5_analyzing_the_results.ipynb to generate confusion matrices and calculate F1 scores, thereby evaluating the effectiveness of the project.
 
-For detailed guidance on the usage and input requirements of each notebook, refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here].(http://hdl.handle.net/10919/116151).
+For detailed guidance on the usage and input requirements of each notebook, refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here](http://hdl.handle.net/10919/116151).
 
 ## Important notes:
 - All notebooks are designed and should be run on Google Colab.
