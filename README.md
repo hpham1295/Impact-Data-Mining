@@ -16,7 +16,8 @@ This approach utilizes zero-shot text classification with BART-large models to e
 . Email: marul@vt.edu
 
 ## Related Publications:
-This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
+- This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
+- Pham, H., M. Arul. (2024) "Natural Hazards Research Summit 2024: Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience." DesignSafe-CI. https://doi.org/10.17603/ds2-r46y-g112 v1
 
 ## Main Inputs
 The primary inputs for this project are reconnaissance reports in PDF format and relevant keywords tailored to the areas of interest in the study.
@@ -36,7 +37,7 @@ The diagram illustrates the project's execution flow across three primary phases
 
 - **Evaluation Phase:** Assess the quality of results by manually labeling impact sentences in 4_data_labeling.ipynb. Then, use 5_analyzing_the_results.ipynb to generate confusion matrices and calculate F1 scores, thereby evaluating the effectiveness of the project.
 
-For detailed guidance on the usage and input requirements of each notebook, refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here](http://hdl.handle.net/10919/116151).
+For detailed guidance on the usage and input requirements of each notebook, please refer to the information provided within the respective files. A comprehensive discussion of the code and methodologies used in this project is available in H. Pham's master's thesis, accessible [here](http://hdl.handle.net/10919/116151).
 
 ## Important notes:
 - All notebooks are designed and should be run on Google Colab.
