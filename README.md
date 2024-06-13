@@ -7,7 +7,6 @@ This approach utilizes zero-shot text classification with BART-large models to e
   </a>
 </p>
 
-
 ## Project Contributors:
 
 - **Huy Pham**, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
