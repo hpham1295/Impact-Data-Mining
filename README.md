@@ -3,7 +3,7 @@ This approach utilizes zero-shot text classification with BART-large models to e
 
 <p align="center">
   <a href="https://github.com/hpham1295/Impact-Data-Mining/blob/main/Framework.png">
-    <img src="https://github.com/hpham1295/Impact-Data-Mining/blob/main/application_framework.png" width="500" alt="Framework Diagram">
+    <img src="https://github.com/hpham1295/Impact-Data-Mining/blob/main/implementation_framework.png" width="500" alt="Framework Diagram">
   </a>
 </p>
 
