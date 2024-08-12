@@ -28,7 +28,7 @@ The primary inputs for this project are reconnaissance reports in PDF format and
   </a>
 </p>
 
-The diagram illustrates the project's execution flow across three primary phases: Data Input, Implementation, and Evaluation.
+The diagram illustrates the project's execution flow across three primary phases: Data Input, Execution, and Evaluation.
 
 - **Data Input Phase:** This initial phase involves preparing inputs for the subsequent stages. Start by converting the PDF report into a .docx format to maintain the text structure accurately (Adobe Acrobat Pro is suggested). If certain sections are deemed unnecessary, utilize the optional 00_optional_customize_scope_by_toc.ipynb file to review and possibly exclude them from the table of contents, which might differ from the document's original layout. Update the sections to be excluded and other inputs in 01_input.ipynb before proceeding to preprocessing.
 
