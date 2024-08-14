@@ -15,7 +15,7 @@ This research develops a framework using BART-large MNLI and BART-large CNN mode
 . Email: marul@vt.edu
 
 ## Related Publications:
-- This project is based on the research paper titled "Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
+- This project is based on the research paper titled "Unstructured to Actionable: Extracting Impact Data from Wind Event and Beyond for Enhanced Infrastructure and Community Resilience" by H. Pham and M. Arul. The link to the full paper will be provided soon.
 - Pham, H., M. Arul. (2024) "Natural Hazards Research Summit 2024: Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience." DesignSafe-CI. https://doi.org/10.17603/ds2-r46y-g112 v1
 
 ## Main Inputs
