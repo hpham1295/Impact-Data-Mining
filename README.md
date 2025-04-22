@@ -11,11 +11,10 @@ This research develops a framework using BART-large MNLI and BART-large CNN mode
 
 - **Huy Pham**, Ph.D. Student, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. Email: phamanhuy@vt.edu
 
-- **Monica Arul**, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en)
-. Email: marul@vt.edu
+- **Monica Arul**, Assistant Professor, Wind & Society Laboratory, Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA, United States. [Google Scholar Profile](https://scholar.google.com/citations?user=2X6cNooAAAAJ&hl=en) [Department Page](https://www.webapps.cee.vt.edu/index.php?category=people&pagetype=bio&do=getprofile&user=jayachandran.html). Email: marul@vt.edu
 
 ## Related Publications:
-- This project is based on the research paper titled "Automated Extraction and Summarization of Wind Disaster Data Using Deep Learning Models, with Extended Applications to Seismic Events" by H. Pham and M. Arul. The link to the full paper will be provided soon.
+- This project is based on the research paper titled "Automated Extraction and Summarization of Wind Disaster Data Using Deep Learning Models, with Extended Applications to Seismic Events" by H. Pham and M. Arul. [Link to the full paper](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2024.1485388/full).
 - Pham, H., M. Arul. (2024) "Natural Hazards Research Summit 2024: Unstructured to Actionable: Extracting Wind Event Impact Data for Enhanced Infrastructure Resilience." DesignSafe-CI. https://doi.org/10.17603/ds2-r46y-g112 v1
 
 ## Main Inputs
